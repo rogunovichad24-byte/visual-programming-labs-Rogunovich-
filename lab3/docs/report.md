@@ -13,16 +13,16 @@
 Это пригодится для реализации CRUD-логики (создание пользователей)
 **Скриншоты:**
 
-![Гайд из Build Guides] (../screenshots/02-buildguide-1.png)з
+![Гайд из Build Guides](../screenshots/02-buildguide-1.png)
 
-![Приложение до изменений] (../screenshots/02-before.png)
+![Приложение до изменений](../screenshots/02-before.png)
 
-![Приложение после добавления страницы регистрации] (../screenshots/02-after.png)
+![Приложение после добавления страницы регистрации](../screenshots/02-after.png)
 
 ## 3. Ручная доработка UI
 *(Здесь будут скриншоты из Этапа 4)*
 
-## 4. Data и Workflows (CRUD)
+## 4. Data и Workflows (CRUD)з
 *(Здесь будут скриншоты из Этапа 5)*
 
 ## 5. Выводы
