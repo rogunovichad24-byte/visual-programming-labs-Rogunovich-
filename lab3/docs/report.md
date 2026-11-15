@@ -13,9 +13,9 @@
 Это пригодится для реализации CRUD-логики (создание пользователей)
 **Скриншоты:**
 
-![Гайд из Build Guides] (C:\Users\rogun\Documents\visual-programming-labs-Rogunovich-\lab3\screenshots\02-buildguide-1.png)
-![Приложение до изменений] (C:\Users\rogun\Documents\visual-programming-labs-Rogunovich-\lab3\screenshots\02-before.png)
-![Приложение после добавления страницы регистрации] (C:\Users\rogun\Documents\visual-programming-labs-Rogunovich-\lab3\screenshots\02-after.png)
+- `02-buildguide-1.png` — скриншот гайда
+- `02-before.png` — приложение до изменений
+- `02-after.png` — приложение после добавления страницы регистрации
 
 ## 3. Ручная доработка UI
 *(Здесь будут скриншоты из Этапа 4)*
